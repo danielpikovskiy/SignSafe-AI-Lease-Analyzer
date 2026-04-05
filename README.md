@@ -1,5 +1,10 @@
 # SignSafe — AI Lease Analyzer
 
+[![Live App](https://img.shields.io/badge/Try%20it%20live-SignSafe-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://signsafe-ai.streamlit.app/)
+
+> **[→ Try the live app here: signsafe-ai.streamlit.app](https://signsafe-ai.streamlit.app/)**
+
+
 **AI-powered legal protection for renters.** SignSafe analyzes your residential lease, detects illegal clauses, cites the exact statute violated, and generates a demand letter. All in under 30 seconds.
 
 Built with Python, Streamlit, and the Google Gemini 2.5 Flash API.
